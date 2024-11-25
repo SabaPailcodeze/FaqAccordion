@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import Accordion from "../../atoms/Accordion/Accordion";
 
 interface faqsProps {

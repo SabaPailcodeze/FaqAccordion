@@ -1,4 +1,3 @@
-import React from "react";
 import { AccordionProps } from "./AccordionProps";
 import arrowDown from "./../../assets/arrowDown.svg";
 

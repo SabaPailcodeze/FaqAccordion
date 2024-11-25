@@ -1,4 +1,3 @@
-import React from "react";
 import FaqCont from "../../molecules/Right/FaqCont";
 import Image from "../../molecules/Left/Image";
 
