@@ -18,11 +18,12 @@ body {
   height: 100vh;
 }
 
-@media (max-width: 722px) {
+@media (max-width: 768px) {
   .MainCont {
     flex-direction: column;
-    margin: 0px 40px;
     position: relative;
+    margin: 40px;
+    padding: 20px 0px;
   }
   .ImageCont {
     width: 100%;
@@ -31,10 +32,9 @@ body {
     align-items: center;
   }
   .Image {
+    position: static;
+    width: 237px;
     height: 180px;
-    width: 230px;
-    position: absolute;
-    bottom: 440px;
   }
   .FaqCont {
     display: flex;
